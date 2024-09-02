@@ -7,7 +7,8 @@ These are the components that will be use in this project
 - LIDAR using in this project: TFmini-S for altitude hold
 - Barometer using in this project: BMP280 for altitude measurement 
 - Receiver using in this project: NRF24L01 for receive control signal from transmitter 
-
+- ESC is the output for controlling the BLDC motor 
+- 
 # Flow charts
 ## Flow chart for flight controller 
 ![FCFlowChart](img/Flight-Controller-Flowchart.png)
